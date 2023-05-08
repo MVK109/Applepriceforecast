@@ -1,5 +1,5 @@
 *.csv
-*.pickle
+*.pkl
 *.txt
 *.dict
 *.pl
